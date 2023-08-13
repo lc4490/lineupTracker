@@ -63,6 +63,6 @@ This script is provided as-is and may not have full error handling or extensive 
 
 For more information about the script's implementation and functions, refer to the script's comments and the [Beautiful Soup documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/).
 
-**Author**: [Your Name]
+**Author**: Leo Chao
 
-**Date**: [Current Date]
+**Date**: 2023/08/13
